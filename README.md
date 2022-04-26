@@ -1,16 +1,25 @@
-- My nickname: 
-          | Winq (dev) aka Vikke
+- 🎭 My nickname: 
+          <br>
+          |_ Winq (dev) aka Vikke
    
-- My real name:
-           | Victor
+- 😃 My real name: 
+         <br>
+           |_ Victor
 
-- Hobby:
-     | Gaming
-     | Coding
+- 🎀 Hobby:
+     <br>
+     |_ Gaming
+     <br>
+     |_ Coding
 
 - My links/information:
             <br>
-            | https://winqdev.xyz (My website)
-            | https://discord.winqdev.xyz (My discord server)
-            | https://steam.winqdev.xyz (My steam profile)
-            | https://mc.winqdev.xyz (My minecraft server)
+            |_ https://winqdev.xyz (My website)
+            <br>
+            |_ https://discord.winqdev.xyz (My discord server)
+            <br>
+            |_ https://steam.winqdev.xyz (My steam profile)
+            <br>
+            |_ https://mc.winqdev.xyz (My minecraft server)
+            <br>
+            |_ https://ko-fi.com/winqdev (Supporting)
