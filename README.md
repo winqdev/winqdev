@@ -9,6 +9,7 @@
      | Coding
 
 - My links/information:
+            <br>
             | https://winqdev.xyz (My website)
             | https://discord.winqdev.xyz (My discord server)
             | https://steam.winqdev.xyz (My steam profile)
