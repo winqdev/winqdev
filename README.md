@@ -23,3 +23,13 @@
             |_ https://mc.winqdev.xyz (My minecraft server)
             <br>
             |_ https://ko-fi.com/winqdev (Supporting)
+
+- Skills in:
+     <br>
+   |_ JavaScript
+   <br>
+   |_ HTML
+   <br>
+   |_ CSS
+   <br>
+   |_ Lua
