@@ -14,13 +14,9 @@
 
 - My links/information:
             <br>
-            |_ https://winqdev.xyz (My website)
+            |_ https://winqdev.ga (My website)
             <br>
-            |_ https://discord.winqdev.xyz (My discord server)
-            <br>
-            |_ https://steam.winqdev.xyz (My steam profile)
-            <br>
-            |_ https://mc.winqdev.xyz (My minecraft server)
+            |_ https://convert.winqdev.ga (YouTube Converter)
             <br>
             |_ https://ko-fi.com/winqdev (Supporting)
 
