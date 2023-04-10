@@ -56,7 +56,7 @@
   <a href="https://www.lua.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"
-      alt="python"
+      alt="lua"
       width="40"
       height="40"
     />
@@ -88,6 +88,22 @@
       height="40"
     />
   </a>
+  <a href="https://nginx.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+      alt="nginx"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nginx.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+      alt="vscode"
+      width="40"
+      height="40"
+    />
+  </a>
   <h3 align="left">OS:</h3>
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
@@ -100,7 +116,7 @@
   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
-      alt="linux"
+      alt="windows"
       width="40"
       height="40"
     />
